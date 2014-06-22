@@ -1,3 +1,0 @@
-function tietoturvakentta(){
-	alert("Tietoturva!");
-}

@@ -1,3 +1,0 @@
-function verkkokauppakentta(){
-	alert("verkkokauppa!");
-}
