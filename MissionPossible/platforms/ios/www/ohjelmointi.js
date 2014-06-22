@@ -1,0 +1,3 @@
+function ohjelmointikentta(){
+	alert("Ohjelmoi!");
+}

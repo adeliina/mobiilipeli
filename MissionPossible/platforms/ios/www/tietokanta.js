@@ -1,0 +1,3 @@
+function tietokantakentta(){
+	alert("Tietokanta!");
+}

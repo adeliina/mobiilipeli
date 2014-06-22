@@ -1,0 +1,3 @@
+function verkkokauppakentta(){
+	alert("verkkokauppa!");
+}
